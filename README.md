@@ -2,11 +2,9 @@
 
 ## 설명
 
-<center>
-<img width="250" src="https://image.yes24.com/goods/108887922/XL" />
-</center>
-
-<br/>
+<div align="center">
+    <img width="250" src="https://image.yes24.com/goods/108887922/XL" />
+</div>
 
 `면접을 위한 CS 전공지식 노트`를 읽고 내용을 정리하여 기록하고 토론을 진행하는 스터디입니다.
 
